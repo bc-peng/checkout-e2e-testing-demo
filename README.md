@@ -31,6 +31,6 @@ Uncomment [this line](https://github.com/bc-peng/checkout-e2e-testing-demo/blob/
 
 # Make Screenshots
 
-Creating a screenshot in a headless browser is a fantastic feature of `Playwright`.
+Creating a screenshot through a headless browser is a fantastic feature of `Playwright`.
 
 A demo test run will create three screenshots. You may make your own screenshots inside [the demo tests](https://github.com/bc-peng/checkout-e2e-testing-demo/blob/8d2652eb7e8c6f4956e0d4ca9feae85a80de4df9/tests/checkout.spec.ts#L38) by using Playwright's [screenshot()](https://playwright.dev/docs/screenshots) method.
