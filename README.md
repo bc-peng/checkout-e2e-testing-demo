@@ -1,6 +1,8 @@
 # Checkout E2E Testing Demo
 Provide a mock checkout environment for conducting e2e tests in a headless browser.
 
+![](README.cover.png)
+
 # Requirements
 Almost the same as the `checkout-js`. The testing framework is [Playwright](https://playwright.dev/).
 
